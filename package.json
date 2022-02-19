@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "homebridge-gsh-kazari",
-  "displayName": "Fork of Homebridge Google Smart Home",
+  "displayName": "Homebridge Google Smart Home (Alt)",
   "version": "2.2.1",
   "description": "Google Smart Home",
   "license": "GPL-3.0",
