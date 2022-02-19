@@ -5,6 +5,9 @@
 
 <span align="center">
 
+# Differances from oznu
+* Has the option to whitelist accessories insted of blacklist them
+
 # Homebridge to Google Smart Home
 
 [![npm](https://img.shields.io/npm/v/homebridge-gsh.svg)](https://www.npmjs.com/package/homebridge-gsh)
